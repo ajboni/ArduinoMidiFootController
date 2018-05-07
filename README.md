@@ -21,7 +21,7 @@ This is a simple 5 button 4 banks controller.
 
 ![Controller](MidiController_bb.png)
 
-![Controller](Controller.png)
+![Controller](Controller.jpg)
 
 
 ## Contributing  
@@ -30,7 +30,7 @@ Feel free to contribute to the project, the only requirement is to have light co
 
 ## Authors  
 
-* ** Rodobodolfo ** - *Initial work* - [PurpleBooth](https://github.com/rodobodolfo)
+* ** Rodobodolfo ** - *Initial work* - [rodobodolfo](https://github.com/rodobodolfo)
 
 ## License  
 
