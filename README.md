@@ -30,7 +30,7 @@ Feel free to contribute to the project, the only requirement is to have light co
 
 ## Authors  
 
-* ** Rodobodolfo ** - *Initial work* - [rodobodolfo](https://github.com/rodobodolfo)
+* ** Alexis Boni ** - *Initial work* - [rodobodolfo](https://github.com/ajboni)
 
 ## License  
 
